@@ -1,5 +1,13 @@
 #  DEVOTE APP 
 
+<p align="center">
+<img src="https://github.com/aziz-ios/Devote/blob/master/DevoteWidget/Assets.xcassets/Devote%20screenshots/1.imageset/launch%20screen.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<p align="center">
+<img src="https://github.com/aziz-ios/Devote/blob/master/DevoteWidget/Assets.xcassets/Devote%20screenshots/2.imageset/new%20task.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<p align="center">
+<img src="https://github.com/aziz-ios/Devote/blob/master/DevoteWidget/Assets.xcassets/Devote%20screenshots/3.imageset/Screenshot%202023-12-23%20at%2012.48.47%E2%80%AFAM.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+<p align="center">
+<img src="https://github.com/aziz-ios/Devote/blob/master/DevoteWidget/Assets.xcassets/Devote%20screenshots/4.imageset/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-12-23%20at%2000.53.00.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
 </p> 
 In this ios APP , I am using SwiftUI and Swift 
 
